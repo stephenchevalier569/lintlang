@@ -1,0 +1,5 @@
+[project]
+name = "lintlang"
+version = "0.1.0"
+description = "Static analysis for AI agent configs, tool descriptions, and system prompts — catches vague tool descriptions, missing stop conditions, and schema gaps before they reach runtime. Zero-LLM, deterministic checks, built for CI."
+requires-python = ">=3.10"
